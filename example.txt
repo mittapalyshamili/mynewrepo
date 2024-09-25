@@ -4,3 +4,5 @@ appartments
 malls
 parts
 airport
+roads
+forests
