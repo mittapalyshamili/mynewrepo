@@ -1,0 +1,28 @@
+
+
+     pending scripts
+
+
+1) write a test script to cursor focus before and after the text in the text box?
+2) write a test script to cursor focus before and after the text in the mltiline textbox?
+3) write a test script to display 1 to 100 numbers without using loop concept?
+/html/body/div[1]/div[1]/div[1]/div[2]/div/div/span[1]
+
+/html/body/div[1]/div[1]/div[1]/div[2]/div/div/span[1]
+
+/html/body/div[1]/div[1]/div[1]/div[2]/div/div/span[1]
+
+//*[@id=":R57alklff9da:"]
+
+//*[@id=":R57alklff9da:"]
+
+/html/body/div[1]/div[1]/div[1]/div[2]/div/div/span[1]/span[3]/input
+
+/html/body/div[1]/div[1]/div[1]/div[2]/div/div/span[1]/span[3]/input
+
+<input data-index="0" aria-valuenow="364" aria-orientation="horizontal" aria-valuemax="2000" aria-valuemin="0" type="range" min="0" max="2000" step="1" style="border:0;clip:rect(0 0 0 0);height:100%;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:100%;direction:ltr" value="364">
+
+body > div.MuiBox-root.css-3f59le > div.MuiBox-root.css-rfiegf > div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-6.css-l0ykmo > div:nth-child(2) > div > div > span.MuiSlider-root.MuiSlider-colorPrimary.MuiSlider-sizeMedium.css-duk49p > span.MuiSlider-thumb.MuiSlider-thumbSizeMedium.MuiSlider-thumbColorPrimary.MuiSlider-thumb.MuiSlider-thumbSizeMedium.MuiSlider-thumbColorPrimary.css-sy3s50 > input[type=range]
+
+/html/body/div[1]/div[1]/div[1]/div[2]/div/div/span[1]/span[3]/input
+
