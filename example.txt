@@ -1,0 +1,6 @@
+land 
+Agriculture
+appartments
+malls
+parts
+airport
